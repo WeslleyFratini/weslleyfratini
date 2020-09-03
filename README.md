@@ -6,12 +6,12 @@
 
 # Weslley Fratini
 
-💬 Sobre Mim 
+💬 
+About me
 
-Tenho desenvolvido habilidades técnicas e estou em contínuo aprendizado em desenvolvimento Mobile e Web , Frameworks, APIs, noções de Arquitetura de Sistemas, Git e Github e metodologias ágeis.
+I have developed technical skills and am in continuous learning in Mobile and Web development, Frameworks, APIs, notions of Systems Architecture, Git and Github and agile methodologies.
 
-Estou sempre buscando conhecimento dia a dia. Posso aprender rapidamente o que é necessário para o andamento do processo. Acredito que sempre precisamos aprender, pensar fora da caixa e sair da zona de conforto.
-
+I am always seeking knowledge day by day. I can quickly learn what is needed to keep the process going. I believe that we always need to learn, think outside the box and get out of the comfort zone.
 :computer: Para saber um pouco mais de mim [https://about.me/weslleyfratini](https://about.me/weslleyfratini)
 
 ## Visitas
