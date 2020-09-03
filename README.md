@@ -15,5 +15,4 @@ Estou sempre buscando conhecimento dia a dia. Posso aprender rapidamente o que Ã
 :computer: Para saber um pouco mais de mim [https://about.me/weslleyfratini](https://about.me/weslleyfratini)
 
 ## Visitas
-
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=WeslleyFratini)
