@@ -7,7 +7,7 @@
 # Weslley Fratini 
 
 💬 
-About me:computer
+About me
 
 I have developed technical skills and am in continuous learning in Mobile and Web development, Frameworks, APIs, notions of Systems Architecture, Git and Github and agile methodologies.
 
