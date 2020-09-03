@@ -12,6 +12,5 @@ About me
 I have developed technical skills and am in continuous learning in Mobile and Web development, Frameworks, APIs, notions of Systems Architecture, Git and Github and agile methodologies.
 
 I am always seeking knowledge day by day. I can quickly learn what is needed to keep the process going. I believe that we always need to learn, think outside the box and get out of the comfort zone.
-:computer: Para saber um pouco mais de mim [https://about.me/weslleyfratini](https://about.me/weslleyfratini)
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=WeslleyFratini)
