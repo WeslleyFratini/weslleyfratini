@@ -12,4 +12,4 @@ I am always seeking knowledge day by day. I can quickly learn what is needed to 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Weslley_Fratini)](https://twitter.com/Weslley_Fratini)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/weslleyfratini/)](https://www.instagram.com/weslleyfratini/)
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=WeslleyFratini)
+                                                                                                        ![Visitas](https://visitor-badge.glitch.me/badge?page_id=WeslleyFratini)
