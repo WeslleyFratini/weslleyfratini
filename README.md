@@ -7,6 +7,8 @@ I have developed technical skills and am in continuous learning in Mobile and We
 
 I am always seeking knowledge day by day. I can quickly learn what is needed to keep the process going. I believe that we always need to learn, think outside the box and get out of the comfort zone.
 
+React Badge, React Native Badge, Flutter Badge, JavaScript Badge, Java Badge, Docker Badge, Kubernetes Badge, Typescript Badge
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/WeslleyFratini)](https://github.com/WeslleyFratini)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-fratini/)](https://www.linkedin.com/in/weslley-fratini/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Weslley_Fratini)](https://twitter.com/Weslley_Fratini)
