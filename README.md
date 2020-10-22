@@ -1,6 +1,7 @@
 # Weslley Fratini 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-fratini/)](https://www.linkedin.com/in/weslley-fratini/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Weslley_Fratini)](https://twitter.com/Weslley_Fratini)
+
 💬 
 About me
 
