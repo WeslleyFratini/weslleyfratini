@@ -1,5 +1,6 @@
 ### Opa, sou o [Weslley Fratini!] 👋
 
+</a>
 <a href="https://twitter.com/Weslley_Fratini" target="_blank">
   <img src="https://raw.githubusercontent.com/weslleyfratini/weslleyfratini/master/assets/twitter.svg" width="21px"  alt="Weslley Fratini | Twitter" align="left" />
 </a>
